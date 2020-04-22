@@ -10,7 +10,7 @@
 
 
 <li><a href="https://github.com/societe62/test/blob/master/sketch_200423c/sketch_200423c.pde">빗물1</a>
-    <a href="https://github.com/societe62/test/blob/master/sketch_200423c/rain.pde">빗물2</a><br>
+    <a href="https://github.com/societe62/test/blob/master/sketch_200423c/rain.pde">빗물2(도형만들기)</a><br>
 <img src="https://user-images.githubusercontent.com/62882039/80030469-2dfb1280-8523-11ea-9e4a-539cae76b03e.gif" width="50%">
 </img></li>
 <li><a href="https://github.com/societe62/test/blob/master/sketch_200423d/sketch_200423d.pde">PGraphics로 </a>
