@@ -15,7 +15,8 @@
 <img src="https://user-images.githubusercontent.com/62882039/80030469-2dfb1280-8523-11ea-9e4a-539cae76b03e.gif" width="50%">
 </img></li>
 <li><a href="https://github.com/societe62/test/blob/master/sketch_200423d/sketch_200423d.pde">PGraphics로 </a>
-  <a href="https://github.com/societe62/test/blob/master/sketch_200423d/rain.pde">창틀 만들기(손수제작)</a><br>
+  <a href="https://github.com/societe62/test/blob/master/sketch_200423d/rain.pde">창틀 만들기(창틀 손수제작)</a><br>
 <img src="https://user-images.githubusercontent.com/62882039/80034561-96e58900-8529-11ea-86d8-e34ac1e37e6f.gif" width="50%">
 </li>
+<a href="https://www.freepik.com/free-vector/blue-gradient-mountains-landscape-background_5269682.htm#page=1&query=mountain&position=11">배경 이미지 원본(저작권문제X 프리웨어)</a>
 </ol>
